@@ -21,6 +21,7 @@ export const HeroBox = styled.div`
     width: 100%;
     display: flex;
     justify-content: space-beetwen;
+    align-items: center;
 `;
 export const HeroBoxItem = styled.div`
     width: 100%;
