@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 export const HeroWrapper = styled.section`
     width: 100%;
-    height: 500px;
+    height: 550px;
 `;
 export const HeroContainer = styled.div`
-    max-width: 1300px;
+    max-width: 1144px;
     margin: auto;
     height: 100%;
 `;
@@ -57,6 +57,6 @@ export const HeroBoxItemBtnBox = styled.button`
     cursor: pointer;
 `;
 export const HeroBoxItemImg = styled.img`
-    max-width: 50%;
+    max-width: 60%;
     margin: auto;
 `;

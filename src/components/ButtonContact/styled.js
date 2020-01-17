@@ -5,7 +5,7 @@ export const BtnContactWapper = styled(Link)`
     text-decoration: none;
 `;
 export const BtnContactBox = styled.button`
-    padding: 15px 25px;
+    padding: 10px 25px;
     background: transparent;
     border: 2px solid #fff;
     color: #fff;
