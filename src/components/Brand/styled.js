@@ -3,6 +3,4 @@ import { Link } from 'react-router-dom';
 
 export const BrandWapper = styled(Link)``;
 
-export const BrandBox = styled.img`
-    
-`
+export const BrandBox = styled.img``;
